@@ -1,0 +1,8 @@
+ body{
+    background-color: black;
+ }
+ .main-container{
+    background-image: url("nature image.jpg");
+    background-size: cover;
+    height: 300px;
+ }
